@@ -24,6 +24,10 @@ Research accesibility tags. Changed div tags to more specific tags and used new 
 Using a code editing softward comaptible with html, css, javascript <br>
 git clone repository to local directory
 
+### Contributing
+Pull requests welcome. <br>
+For any changes, Please open an issue to discuss any changes<br>
+you would like to make.
 
 ### Credits
 
